@@ -2,7 +2,7 @@ const gulp = require('gulp')
 const cleanCSS = require('gulp-clean-css')
 const htmlmin = require('gulp-html-minifier-terser')
 const htmlclean = require('gulp-htmlclean')
-const imagemin = require('gulp-imagemin')
+// const imagemin = require('gulp-imagemin')
 const workbox = require("workbox-build");
 // gulp-terser (如果使用 gulp-terser,把下面的//去掉)
 // const terser = require('gulp-terser');
@@ -73,17 +73,17 @@ gulp.task('minify-html', () => {
     .pipe(gulp.dest('./public'))
 });
 
-// 压缩 public/uploads 目录内图片
-gulp.task('minify-images', async () => {
-  gulp.src('./public/img/**/*.*')
-    .pipe(imagemin({
-      optimizationLevel: 5, //类型：Number  预设：3  取值範围：0-7（优化等级）
-      progressive: true, //类型：Boolean 预设：false 无失真压缩jpg图片
-      interlaced: false, //类型：Boolean 预设：false 隔行扫描gif进行渲染
-      multipass: false, //类型：Boolean 预设：false 多次优化svg直到完全优化
-    }))
-    .pipe(gulp.dest('./public/img'));
-});
+// // 压缩 public/uploads 目录内图片
+// gulp.task('minify-images', async () => {
+//   gulp.src('./public/img/**/*.*')
+//     .pipe(imagemin({
+//       optimizationLevel: 5, //类型：Number  预设：3  取值範围：0-7（优化等级）
+//       progressive: true, //类型：Boolean 预设：false 无失真压缩jpg图片
+//       interlaced: false, //类型：Boolean 预设：false 隔行扫描gif进行渲染
+//       multipass: false, //类型：Boolean 预设：false 多次优化svg直到完全优化
+//     }))
+//     .pipe(gulp.dest('./public/img'));
+// });
 
 // 执行 gulp 命令时执行的任务
 gulp.task("default", gulp.series("generate-service-worker", gulp.parallel(
