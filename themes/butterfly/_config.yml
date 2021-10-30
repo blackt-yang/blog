@@ -42,8 +42,11 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
+  iconfont icon-weibo:  https://github.com|| Weibo
+  iconfont icon-bilibili- : https://github.com|| Bilibili
+  iconfont icon-github: https://github.com/admiralthrawn || Github
+  iconfont icon-facebook: mailto:xxxxxx@gmail.com || Facebook
+  iconfont icon-rss: https://github.com || RSS
 
 # search (搜索)
 # --------------------------------------
