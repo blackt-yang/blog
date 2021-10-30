@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: 第一篇博客致敬Hexo
 top_img: https://i.loli.net/2021/10/30/1URIqLJEOmc9huB.jpg
 cover: https://i.loli.net/2021/10/30/1URIqLJEOmc9huB.jpg
 tags:
@@ -8,6 +8,9 @@ tags:
 categories:
     - 测试页面
 ---
+
+第一篇博客，Hexo框架自动生成的，我就不删了，致敬Hexo.
+----------
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
