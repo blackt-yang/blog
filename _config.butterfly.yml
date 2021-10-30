@@ -425,7 +425,7 @@ baidu_analytics:
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: UA-182328748-1
 
 # Tencent Analytics ID
 # https://mta.qq.com
