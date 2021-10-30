@@ -108,6 +108,9 @@ search:
   content: true
   # template: ./search.xml
 
+sitemap:
+  path: sitemap.xml
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
