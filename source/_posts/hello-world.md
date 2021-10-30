@@ -2,6 +2,11 @@
 title: Hello World
 top_img: https://i.loli.net/2021/10/30/1URIqLJEOmc9huB.jpg
 cover: https://i.loli.net/2021/10/30/1URIqLJEOmc9huB.jpg
+tags:
+    - 测试
+    - Hello World
+categories:
+    - 测试页面
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
