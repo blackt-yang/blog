@@ -111,6 +111,19 @@ search:
 sitemap:
   path: sitemap.xml
 
+feed: 
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub: 
+  content: 
+  content_limit: 140
+  content_limit_delim: ''
+  order_by: -date
+  icon: /img/favicon.png
+  autodiscovery: true
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
