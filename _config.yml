@@ -117,8 +117,8 @@ feed:
   path: atom.xml
   limit: 20
   hub: 
-  content: 
-  content_limit: 140
+  content: true
+  content_limit: 
   content_limit_delim: ''
   order_by: -date
   icon: /img/favicon.png
