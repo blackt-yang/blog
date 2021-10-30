@@ -97,14 +97,14 @@ disable_top_img: false
 index_img: false
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: https://i.loli.net/2021/10/30/NtjXOcmUTe7KGz9.jpg
 
 # The banner image of archive page
-archive_img:
+archive_img: https://i.loli.net/2021/10/30/IBVJdbr1PUXZjE3.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: https://i.loli.net/2021/07/02/TSjFKhD4ItkiEaX.jpg
 
 # The banner image of tag page
 # format:
