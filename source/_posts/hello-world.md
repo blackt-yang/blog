@@ -1,12 +1,13 @@
 ---
 title: 第一篇博客致敬Hexo
-top_img: https://i.loli.net/2021/10/30/1URIqLJEOmc9huB.jpg
-cover: https://i.loli.net/2021/10/30/1URIqLJEOmc9huB.jpg
+top_img: /images/top-img/forest.jpg
+cover: /images/top-img/forest.jpg
 tags:
     - 测试
     - Hello World
 categories:
     - 测试页面
+typora-root-url: ../../source/
 ---
 
 第一篇博客，Hexo框架自动生成的，我就不删了，致敬Hexo.

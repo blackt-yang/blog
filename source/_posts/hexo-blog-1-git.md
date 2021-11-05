@@ -7,9 +7,11 @@ tags:
   - Github
   - 博客
   - Vercel
-categories: Hexo博客系列
-cover: https://i.loli.net/2021/10/30/5v6mnGqKVlHi9Cy.jpg
-top_img: https://i.loli.net/2021/10/30/5v6mnGqKVlHi9Cy.jpg
+categories: 
+  - [博客,Hexo博客系列]
+cover: /images/top-img/mountain-sky.jpg
+top_img: /images/top-img/mountain-sky.jpg
+typora-root-url: ../../source
 ---
 
 **Hexo** 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
@@ -233,11 +235,11 @@ git push -u origin master
 
 在Vercel的[控制台](https://vercel.com/dashboard)，点击`New Project`，进入创建页面
 
-![Screenshot_20211030_224717.png](https://i.loli.net/2021/10/30/qS1KbVM5Pl7ogCm.png)
+![Screenshot_20211030_224717](/images/hexo-blog-1-git/Screenshot_20211030_224717.png)
 
 在左侧的面板里面点击你的代码仓库，**导入到Vercel**
 
-![Screenshot_20211030_225132](https://i.loli.net/2021/10/30/iIM5ADPBFmlHwct.png)
+![Screenshot_20211030_225132](/images/hexo-blog-1-git/Screenshot_20211030_225132.png)
 
 然后他会让你创建一个**Team**，这个要钱的！，咱们穷逼直接点**Skip跳过**！
 
