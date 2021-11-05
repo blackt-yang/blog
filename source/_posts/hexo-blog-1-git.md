@@ -22,7 +22,7 @@ typora-root-url: ../../source
 
 {%note info%}**[ThrawnのBlog](https://blog.admiralthrawn.me)**就是用**Hexo框架**+**Vercel托管**，使用**Github代码仓库**{%endnote%}
 
-{%note info%}📚**[Hexo系列文章](https://blog.admiralthrawn.me/categories/Hexo博客系列/)**将会涉及**Hexo安装**/**Vercel托管**/**Hexo主题（以Butterfly为例）**/**PWA**/**SEO**等内容，配合**Hexo官方文档**和**相关主题官方文档**食用更香！💡{%endnote%}
+{%note info%}📚[Hexo系列文章](https://blog.admiralthrawn.me/categories/Hexo博客系列/)将会涉及**Hexo安装**/**Vercel托管**/**Hexo主题（以Butterfly为例）**/**PWA**/**SEO**等内容，配合**Hexo官方文档**和**相关主题官方文档**食用更香！💡{%endnote%}
 
 ## Hexo安装前提
 
