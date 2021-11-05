@@ -1,5 +1,6 @@
 ---
 title: 第一篇博客致敬Hexo
+date: 2021-10-30 20:04:16
 top_img: /images/top-img/forest.jpg
 cover: /images/top-img/forest.jpg
 tags:
