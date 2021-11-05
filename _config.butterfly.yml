@@ -821,8 +821,8 @@ pwa:
   enable: true
   manifest: manifest.json
   apple_touch_icon: /pwa/apple-touch-icon.png
-  favicon_32_32: icons/pwa/32.png
-  favicon_16_16: icons/pwa/16.png
+  favicon_32_32: icons/pwa/icon_32x32.png
+  favicon_16_16: icons/pwa/icon_16x16.png
   mask_icon: /pwa/safari-pinned-tab.svg
 
 # Open graph meta tags
