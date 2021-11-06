@@ -15,6 +15,7 @@
     "gulp-clean-css": "^4.3.0",
     "gulp-html-minifier-terser": "^6.0.1",
     "hexo": "^5.0.0",
+    "hexo-butterfly-artitalk": "^1.0.4",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-feed": "^3.0.0",
@@ -33,12 +34,12 @@
   "devDependencies": {
     "@babel/core": "^7.15.8",
     "@babel/preset-env": "^7.15.8",
-    "workbox-build": "^6.3.0",
-    "gulp-imagemin": "^8.0.0",
-    "gulp-terser": "^2.1.0",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-htmlclean": "^2.7.22",
-    "gulp-uglify": "^3.0.2"
+    "gulp-imagemin": "^8.0.0",
+    "gulp-terser": "^2.1.0",
+    "gulp-uglify": "^3.0.2",
+    "workbox-build": "^6.3.0"
   }
 }
