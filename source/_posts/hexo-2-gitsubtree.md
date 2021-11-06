@@ -1,18 +1,19 @@
 ---
-
 title: Hexo系列（二）Git Subtree管理Hexo主题
-date: 2021-11-06 19:38:16
 tags:
   - Git
   - Github
   - Hexo
   - 主题
-categories: 
-  - [开源生活,Hexo博客系列]
-  - [开源生活]
+categories:
+  - - 开源生活
+    - Hexo博客系列
+  - - 开源生活
 cover: /images/top-img/sunset.jpg
 top_img: /images/top-img/sunset.jpg
 typora-root-url: ../../source
+abbrlink: 43954
+date: 2021-11-06 19:38:16
 ---
 
 {%note info%}本文只讲**Git**方案，不讲**NPM**{%endnote%}

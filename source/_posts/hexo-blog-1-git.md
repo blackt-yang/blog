@@ -1,18 +1,20 @@
 ---
 title: Hexo系列（一）Hexo+Vercel搭建博客
-date: 2021-10-30 21:04:16
-tags: 
+tags:
   - Hexo
   - Git
   - Github
   - 博客
   - Vercel
-categories: 
-  - [开源生活]
-  - [开源生活,Hexo博客系列]
+categories:
+  - - 开源生活
+  - - 开源生活
+    - Hexo博客系列
 cover: /images/top-img/mountain-sky.jpg
 top_img: /images/top-img/mountain-sky.jpg
 typora-root-url: ../../source
+abbrlink: 3e5f0d99
+date: 2021-10-30 21:04:16
 ---
 
 **Hexo** 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。

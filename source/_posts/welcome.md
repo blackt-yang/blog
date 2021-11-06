@@ -1,16 +1,18 @@
 ---
 title: 红茶·白兰地·杨 の MANIFESTO
-date: 2021-10-30 20:10:16
 tags:
   - 博客
   - Hexo
-categories: 
-  - [开源生活,感想]
+categories:
+  - - 开源生活
+    - 感想
 cover: /images/top-img/mountain.jpg
 top_img: /images/top-img/mountain.jpg
 sticky: true
 typora-root-url: ../../source
 aplayer: true
+abbrlink: 4af14459
+date: 2021-10-30 20:10:16
 ---
 
 

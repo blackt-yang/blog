@@ -1,14 +1,15 @@
 ---
 title: 第一篇博客致敬Hexo
-date: 2021-10-30 20:04:16
 top_img: /images/top-img/forest.jpg
 cover: /images/top-img/forest.jpg
 tags:
-    - 测试
-    - Hello World
+  - 测试
+  - Hello World
 categories:
-    - 测试页面
+  - 测试页面
 typora-root-url: ../../source/
+abbrlink: 82b4117e
+date: 2021-10-30 20:04:16
 ---
 
 第一篇博客，Hexo框架自动生成的，我就不删了，致敬Hexo.
