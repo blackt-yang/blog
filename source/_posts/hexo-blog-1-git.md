@@ -8,7 +8,7 @@ tags:
   - 博客
   - Vercel
 categories: 
-  - [博客,Hexo博客系列]
+  - Hexo博客系列
 cover: /images/top-img/mountain-sky.jpg
 top_img: /images/top-img/mountain-sky.jpg
 typora-root-url: ../../source
