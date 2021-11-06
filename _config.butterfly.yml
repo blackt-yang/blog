@@ -11,7 +11,7 @@ menu:
   归档: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
-  清单||fas fa-list:
+  生活||fas fa-coffee:
     音乐: /music/ || fas fa-music
     电影: /movies/ || fas fa-video
     说说: /talk/ || fas fa-comments
@@ -367,17 +367,6 @@ twikoo:
   region:
   visitor: false
   option:
-
-  # Artitalk
-  # see https://artitalk.js.org/
-  artitalk:
-    enable: true
-    appId: 2nMl4hxBssU9hlMnakzaaYVA-MdYXbMMI
-    appKey: 4BJjg7Lcny1o0HSpR68pO0MM
-    path: talk
-    js:
-    option:
-    front_matter:
 
 # Chat Services
 # --------------------------------------
