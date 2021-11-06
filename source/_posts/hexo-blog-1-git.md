@@ -8,7 +8,8 @@ tags:
   - 博客
   - Vercel
 categories: 
-  - Hexo博客系列
+  - [开源生活]
+  - [开源生活,Hexo博客系列]
 cover: /images/top-img/mountain-sky.jpg
 top_img: /images/top-img/mountain-sky.jpg
 typora-root-url: ../../source
@@ -20,7 +21,7 @@ typora-root-url: ../../source
 
 {%note success%}使用**Hexo**和**Vercel**可以零成本创建个人或组织的博客。{%endnote%}
 
-{%note info%}**[ThrawnのBlog](https://blog.admiralthrawn.me)**就是用**Hexo框架**+**Vercel托管**，使用**Github代码仓库**{%endnote%}
+{%note info%}**[红茶・白兰地 の Blog](https://blog.admiralthrawn.me)**就是用**Hexo框架**+**Vercel托管**，使用**Github代码仓库**{%endnote%}
 
 {%note info%}📚[Hexo系列文章](https://blog.admiralthrawn.me/categories/Hexo博客系列/)将会涉及**Hexo安装**/**Vercel托管**/**Hexo主题（以Butterfly为例）**/**PWA**/**SEO**等内容，配合**Hexo官方文档**和**相关主题官方文档**食用更香！💡{%endnote%}
 
