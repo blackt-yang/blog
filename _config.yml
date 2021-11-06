@@ -124,6 +124,9 @@ feed:
   icon: /img/favicon.png
   autodiscovery: true
 
+aplayer:
+  meting: true
+  asset_inject: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
