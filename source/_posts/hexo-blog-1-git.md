@@ -10,8 +10,8 @@ categories:
   - - 开源生活
   - - 开源生活
     - Hexo博客系列
-cover: /images/top-img/mountain-sky.jpg
-top_img: /images/top-img/mountain-sky.jpg
+cover: /images/hexo-blog-1-git/hexo-github-vercel.jpg
+top_img: /images/hexo-blog-1-git/hexo-github-vercel.jpg
 typora-root-url: ../../source
 abbrlink: 3e5f0d99
 date: 2021-10-30 21:04:16
